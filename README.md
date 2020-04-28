@@ -36,8 +36,8 @@ Pick one of the following research papers an present it to me. You are welcome t
 
 1. [Hierarchical User and Item Representation with Three-Tier Attention for Recommendation](https://www.aclweb.org/anthology/N19-1180.pdf) (NAACL19)
 2. [Variational autoencoders for collaborative filtering](https://arxiv.org/pdf/1802.05814.pdf) (WWW18) 
-3. [Neural collaborative filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW17) ***
-4. [DeepFM: a factorization-machine based neural network for CTR prediction](https://www.ijcai.org/proceedings/2017/0239.pdf) (IJCAI17) ***
+3. [Neural collaborative filtering](https://arxiv.org/pdf/1708.05031.pdf) (WWW17)
+4. [DeepFM: a factorization-machine based neural network for CTR prediction](https://www.ijcai.org/proceedings/2017/0239.pdf) (IJCAI17)
 5. [A multi-view deep learning approach for cross domain user modeling in recommendation systems](http://sonyis.me/paperpdf/frp1159-songA-www-2015.pdf) (WWW15) 
 6. [CROSS: Cross-platform Recommendation for Social E-Commerce](http://delivery.acm.org/10.1145/3340000/3331191/p515-lin.pdf?ip=128.233.10.222&id=3331191&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E0F446B7AFEA05D92%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575566088_2039698ece9d8ee996ccdbf205f8323b) (SIGIR19)
 7. [An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation](http://delivery.acm.org/10.1145/3340000/3331192/p225-chen.pdf?ip=128.233.10.222&id=3331192&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E0F446B7AFEA05D92%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1575565929_ebf835ffcc2219f62358c41f99130711) (SIGIR19)
